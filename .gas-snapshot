@@ -1,0 +1,3 @@
+OurTokenTest:testAllowances() (gas: 77165)
+OurTokenTest:testInitialSupply() (gas: 16372)
+OurTokenTest:testUserCanMint() (gas: 8729)
